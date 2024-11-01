@@ -1,0 +1,349 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Payment Gateway Zeus for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-20 14:41+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wc-zeus-gateway.php:23
+#, php-format
+msgid "Zeus requires WooCommerce to be installed and active. You can download %s here."
+msgstr ""
+
+#: wc-zeus-gateway.php:27 wc-zeus-gateway.php:165
+msgid "In order to use Zeus, you have to purchase the authentication key at the following site."
+msgstr ""
+
+#: wc-zeus-gateway.php:52
+msgid "Zeus - Credit Card"
+msgstr ""
+
+#: wc-zeus-gateway.php:53
+msgid "Enable the credit card payment by Zeus. You can change whole IP Codes and other settings here."
+msgstr ""
+
+#: wc-zeus-gateway.php:83 wc-zeus-gateway.php:373 wc-zeus-gateway.php:480
+#: wc-zeus-gateway.php:592 wc-zeus-gateway.php:705 wc-zeus-gateway.php:814
+#: wc-zeus-gateway.php:922 wc-zeus-gateway.php:1036
+msgid "Enable/Disable"
+msgstr ""
+
+#: wc-zeus-gateway.php:84
+msgid "Enable Zeus - Credit Card"
+msgstr ""
+
+#: wc-zeus-gateway.php:90 wc-zeus-gateway.php:380 wc-zeus-gateway.php:487
+#: wc-zeus-gateway.php:599 wc-zeus-gateway.php:712 wc-zeus-gateway.php:821
+#: wc-zeus-gateway.php:929 wc-zeus-gateway.php:1043
+msgid "Title"
+msgstr ""
+
+#: wc-zeus-gateway.php:92 wc-zeus-gateway.php:382 wc-zeus-gateway.php:489
+#: wc-zeus-gateway.php:601 wc-zeus-gateway.php:714 wc-zeus-gateway.php:823
+#: wc-zeus-gateway.php:931 wc-zeus-gateway.php:1045
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: wc-zeus-gateway.php:93
+msgid "Credit Card"
+msgstr ""
+
+#: wc-zeus-gateway.php:97 wc-zeus-gateway.php:387 wc-zeus-gateway.php:494
+#: wc-zeus-gateway.php:606 wc-zeus-gateway.php:719 wc-zeus-gateway.php:828
+#: wc-zeus-gateway.php:936 wc-zeus-gateway.php:1050
+msgid "Description"
+msgstr ""
+
+#: wc-zeus-gateway.php:99 wc-zeus-gateway.php:389 wc-zeus-gateway.php:496
+#: wc-zeus-gateway.php:608 wc-zeus-gateway.php:721 wc-zeus-gateway.php:830
+#: wc-zeus-gateway.php:938 wc-zeus-gateway.php:1052
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: wc-zeus-gateway.php:100
+msgid "Pay with your credit card"
+msgstr ""
+
+#: wc-zeus-gateway.php:104
+msgid "IP Code (Credit)"
+msgstr ""
+
+#: wc-zeus-gateway.php:109
+msgid "IP Code (CVS)"
+msgstr ""
+
+#: wc-zeus-gateway.php:114
+msgid "IP Code (Money Omakase Service)"
+msgstr ""
+
+#: wc-zeus-gateway.php:119
+msgid "IP Code (Payeasy)"
+msgstr ""
+
+#: wc-zeus-gateway.php:124
+msgid "IP Code (Account Transfer)"
+msgstr ""
+
+#: wc-zeus-gateway.php:129
+msgid "IP Code (Carrier)"
+msgstr ""
+
+#: wc-zeus-gateway.php:134
+msgid "IP Code (Edy)"
+msgstr ""
+
+#: wc-zeus-gateway.php:139
+msgid "IP Code (Chocom)"
+msgstr ""
+
+#: wc-zeus-gateway.php:144 wc-zeus-gateway.php:394 wc-zeus-gateway.php:501
+#: wc-zeus-gateway.php:613 wc-zeus-gateway.php:726 wc-zeus-gateway.php:835
+#: wc-zeus-gateway.php:943 wc-zeus-gateway.php:1057
+msgid "Status"
+msgstr ""
+
+#: wc-zeus-gateway.php:149 wc-zeus-gateway.php:399 wc-zeus-gateway.php:506
+#: wc-zeus-gateway.php:618 wc-zeus-gateway.php:731 wc-zeus-gateway.php:840
+#: wc-zeus-gateway.php:948 wc-zeus-gateway.php:1062
+msgid "Processing"
+msgstr ""
+
+#: wc-zeus-gateway.php:150 wc-zeus-gateway.php:400 wc-zeus-gateway.php:507
+#: wc-zeus-gateway.php:619 wc-zeus-gateway.php:732 wc-zeus-gateway.php:841
+#: wc-zeus-gateway.php:949 wc-zeus-gateway.php:1063
+msgid "Completed"
+msgstr ""
+
+#: wc-zeus-gateway.php:154
+msgid "Logging"
+msgstr ""
+
+#: wc-zeus-gateway.php:155
+msgid "Log debug messages"
+msgstr ""
+
+#: wc-zeus-gateway.php:157
+msgid "Save debug messages to the WooCommerce System Status log."
+msgstr ""
+
+#: wc-zeus-gateway.php:162
+msgid "Authentication Key"
+msgstr ""
+
+#: wc-zeus-gateway.php:200 wc-zeus-gateway.php:411 wc-zeus-gateway.php:518
+#: wc-zeus-gateway.php:630 wc-zeus-gateway.php:743 wc-zeus-gateway.php:852
+#: wc-zeus-gateway.php:960 wc-zeus-gateway.php:1074
+msgid "In order to use Zeus, you have to purchase the authentication key."
+msgstr ""
+
+#: wc-zeus-gateway.php:214 wc-zeus-gateway.php:428 wc-zeus-gateway.php:540
+#: wc-zeus-gateway.php:652 wc-zeus-gateway.php:760 wc-zeus-gateway.php:869
+#: wc-zeus-gateway.php:982 wc-zeus-gateway.php:1091
+msgid "Redirecting automatically to the payment screen by Zeus. If not, please push the following submit button."
+msgstr ""
+
+#: wc-zeus-gateway.php:229 wc-zeus-gateway.php:231 wc-zeus-gateway.php:444
+#: wc-zeus-gateway.php:556 wc-zeus-gateway.php:668 wc-zeus-gateway.php:776
+#: wc-zeus-gateway.php:778 wc-zeus-gateway.php:884 wc-zeus-gateway.php:886
+#: wc-zeus-gateway.php:998 wc-zeus-gateway.php:1000
+msgid "Go back to the site"
+msgstr ""
+
+#: wc-zeus-gateway.php:233 wc-zeus-gateway.php:446 wc-zeus-gateway.php:558
+#: wc-zeus-gateway.php:670 wc-zeus-gateway.php:780 wc-zeus-gateway.php:888
+#: wc-zeus-gateway.php:1002 wc-zeus-gateway.php:1106
+msgid "To the payment screen"
+msgstr ""
+
+#: wc-zeus-gateway.php:254 wc-zeus-gateway.php:264 wc-zeus-gateway.php:280
+#: wc-zeus-gateway.php:296
+#, php-format
+msgid "Zeus settlement completed (Order No: %s)."
+msgstr ""
+
+#: wc-zeus-gateway.php:256 wc-zeus-gateway.php:282 wc-zeus-gateway.php:290
+#: wc-zeus-gateway.php:306
+#, php-format
+msgid "Zeus settlement failed (Order No: %s)."
+msgstr ""
+
+#: wc-zeus-gateway.php:262
+#, php-format
+msgid "Zeus settlement displayed (Order No: %s, Detail: %s)."
+msgstr ""
+
+#: wc-zeus-gateway.php:266
+#, php-format
+msgid "Zeus settlement failed (Order No: %s, Status: %s, Error Code: %s)."
+msgstr ""
+
+#: wc-zeus-gateway.php:272 wc-zeus-gateway.php:304
+#, php-format
+msgid "Zeus settlement completed (Order No: %s, Tracking No: %s)."
+msgstr ""
+
+#: wc-zeus-gateway.php:274 wc-zeus-gateway.php:298
+#, php-format
+msgid "Zeus settlement failed (Order No: %s, Error Code: %s)."
+msgstr ""
+
+#: wc-zeus-gateway.php:288
+#, php-format
+msgid "Zeus settlement completed (Order No: %s, Tracking No: %s, Account Name: %s)."
+msgstr ""
+
+#: wc-zeus-gateway.php:353
+msgid "Zeus - CVS"
+msgstr ""
+
+#: wc-zeus-gateway.php:354
+msgid "Enable the CVS payment by Zeus."
+msgstr ""
+
+#: wc-zeus-gateway.php:374
+msgid "Enable Zeus - CVS"
+msgstr ""
+
+#: wc-zeus-gateway.php:383
+msgid "CVS"
+msgstr ""
+
+#: wc-zeus-gateway.php:390
+msgid "Pay with CVS"
+msgstr ""
+
+#: wc-zeus-gateway.php:460
+msgid "Zeus - Money Omakase Service"
+msgstr ""
+
+#: wc-zeus-gateway.php:461
+msgid "Enable the Money Omakase Service payment by Zeus."
+msgstr ""
+
+#: wc-zeus-gateway.php:481
+msgid "Enable Zeus - Money Omakase Service"
+msgstr ""
+
+#: wc-zeus-gateway.php:490
+msgid "Money Omakase Service"
+msgstr ""
+
+#: wc-zeus-gateway.php:497
+msgid "Pay with a bank transfer"
+msgstr ""
+
+#: wc-zeus-gateway.php:523 wc-zeus-gateway.php:635 wc-zeus-gateway.php:965
+#, php-format
+msgid "It is available if the total amount is over %s Yen."
+msgstr ""
+
+#: wc-zeus-gateway.php:572
+msgid "Zeus - Payeasy"
+msgstr ""
+
+#: wc-zeus-gateway.php:573
+msgid "Enable the Payeasy payment by Zeus."
+msgstr ""
+
+#: wc-zeus-gateway.php:593
+msgid "Enable Zeus - Payeasy"
+msgstr ""
+
+#: wc-zeus-gateway.php:602
+msgid "Payeasy"
+msgstr ""
+
+#: wc-zeus-gateway.php:609
+msgid "Pay with Payeasy"
+msgstr ""
+
+#: wc-zeus-gateway.php:685
+msgid "Zeus - Account Transfer"
+msgstr ""
+
+#: wc-zeus-gateway.php:686
+msgid "Enable the account transfer payment by Zeus."
+msgstr ""
+
+#: wc-zeus-gateway.php:706
+msgid "Enable Zeus - Account Transfer"
+msgstr ""
+
+#: wc-zeus-gateway.php:715
+msgid "Account Transfer"
+msgstr ""
+
+#: wc-zeus-gateway.php:722
+msgid "Pay with an account transfer"
+msgstr ""
+
+#: wc-zeus-gateway.php:794
+msgid "Zeus - Carrier"
+msgstr ""
+
+#: wc-zeus-gateway.php:795
+msgid "Enable the Carrier payment by Zeus."
+msgstr ""
+
+#: wc-zeus-gateway.php:815
+msgid "Enable Zeus - Carrier"
+msgstr ""
+
+#: wc-zeus-gateway.php:824
+msgid "Carrier"
+msgstr ""
+
+#: wc-zeus-gateway.php:831
+msgid "Pay with your Carrier"
+msgstr ""
+
+#: wc-zeus-gateway.php:902
+msgid "Zeus - Edy"
+msgstr ""
+
+#: wc-zeus-gateway.php:903
+msgid "Enable the Edy payment by Zeus."
+msgstr ""
+
+#: wc-zeus-gateway.php:923
+msgid "Enable Zeus - Edy"
+msgstr ""
+
+#: wc-zeus-gateway.php:932
+msgid "Edy"
+msgstr ""
+
+#: wc-zeus-gateway.php:939
+msgid "Pay with your Edy"
+msgstr ""
+
+#: wc-zeus-gateway.php:1016
+msgid "Zeus - Chocom"
+msgstr ""
+
+#: wc-zeus-gateway.php:1017
+msgid "Enable the Chocom payment by Zeus."
+msgstr ""
+
+#: wc-zeus-gateway.php:1037
+msgid "Enable Zeus - Chocom"
+msgstr ""
+
+#: wc-zeus-gateway.php:1046
+msgid "Chocom"
+msgstr ""
+
+#: wc-zeus-gateway.php:1053
+msgid "Pay with your Chocom"
+msgstr ""
